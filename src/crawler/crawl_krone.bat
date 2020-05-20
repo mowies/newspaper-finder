@@ -1,0 +1,1 @@
+scrapy crawl krone -o ../../data/krone.json

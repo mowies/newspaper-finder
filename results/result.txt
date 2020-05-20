@@ -1,0 +1,11 @@
+---------- Parameters --------------
+Epoch: 100
+Learning rate: 0.1
+N-Grams: 2
+Min Count: 1
+Loss: hs
+
+---------- Results -----------------
+N	1800
+P@1	0.563
+R@1	0.563

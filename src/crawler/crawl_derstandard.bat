@@ -1,0 +1,3 @@
+scrapy crawl derstandard -o ../../data/derstandard.json
+
+rem i think for derstandard cookies have to be disabled...
